@@ -52,7 +52,7 @@ a {
 }
 
 .logo-text span {
-  color: #00aaff;
+  color: #3893d2;
 }
 
 .nav-menu {
@@ -74,12 +74,12 @@ a {
   bottom: 0;
   height: 2px;
   width: 0%;
-  background: #00aaff;
+  background: #3893d2;
   transition: width 0.3s ease;
 }
 
 .nav-link:hover {
-  color: #00aaff;
+  color: #3893d2;
 }
 
 .nav-link:hover::after {
@@ -130,7 +130,7 @@ a {
 
 .hero-content h1 {
   font-size: 2.8rem;
-  color: #00aaff;
+  color: #3893d2;
   margin-bottom: 1rem;
   line-height: 1.2;
 }
@@ -143,7 +143,7 @@ a {
 
 .btn-primary {
   display: inline-block;
-  background: linear-gradient(135deg, #00aaff, #0077cc);
+  background: linear-gradient(135deg, #3893d2, #0077cc);
   color: #fff;
   padding: 0.9rem 1.8rem;
   border-radius: 50px;
@@ -177,7 +177,7 @@ a {
 }
 
 .footer-left h3 {
-  color: #00aaff;
+  color: #3893d2;
   margin-bottom: 0.5rem;
 }
 
@@ -193,7 +193,7 @@ a {
 }
 
 .socials a {
-  color: #00aaff;
+  color: #3893d2;
   margin-right: 1rem;
   transition: color 0.3s ease;
 }
@@ -230,7 +230,7 @@ a {
     flex-direction: column;
     background: rgba(10, 13, 17, 0.97);
     position: absolute;
-    top: 50px;
+    top: 80px;
     right: 0;
     width: 100%;
     border-left: 1px solid rgba(255, 255, 255, 0.08);
@@ -289,7 +289,7 @@ a {
 
 .about-content h2 {
   font-size: 2rem;
-  color: #00aaff;
+  color: #3893d2;
   margin-bottom: 1rem;
   position: relative;
 }
@@ -299,7 +299,7 @@ a {
   display: block;
   width: 50px;
   height: 3px;
-  background: #00aaff;
+  background: #3893d2;
   margin-top: 0.5rem;
   border-radius: 2px;
 }
@@ -326,7 +326,7 @@ a {
 
 .stat-item h3 {
   font-size: 1.8rem;
-  color: #00aaff;
+  color: #3893d2;
   margin-bottom: 0.3rem;
 }
 
@@ -360,7 +360,7 @@ a {
 
 .services h2 {
   font-size: 2rem;
-  color: #00aaff;
+  color: #3893d2;
   margin-bottom: 1rem;
   position: relative;
 }
@@ -370,7 +370,7 @@ a {
   display: block;
   width: 60px;
   height: 3px;
-  background: #00aaff;
+  background: #3893d2;
   margin: 0.6rem auto;
   border-radius: 2px;
 }
@@ -410,7 +410,7 @@ a {
 .icon {
   font-size: 2.5rem;
   margin-bottom: 1rem;
-  color: #00aaff;
+  color: #3893d2;
 }
 
 .service-card h3 {
