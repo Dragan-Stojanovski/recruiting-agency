@@ -25,9 +25,10 @@ a {
   top: 0;
   left: 0;
   z-index: 1000;
-  background: rgba(10, 13, 17, 0.92);
+  background: white;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(10px);
+  color:black;
 }
 
 .nav-container {
@@ -97,7 +98,7 @@ a {
 .hamburger span {
   width: 25px;
   height: 3px;
-  background: #f5f5f5;
+  background: black;
   border-radius: 2px;
   transition: all 0.3s ease;
 }
@@ -244,7 +245,7 @@ a {
   .nav-menu {
     display: none;
     flex-direction: column;
-    background: rgba(10, 13, 17, 0.97);
+    background: white;
     position: absolute;
     top: 80px;
     right: 0;
